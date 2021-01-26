@@ -1,6 +1,4 @@
-// Description: lab1a.c -> findFile
-// Author: Pao Yu, 103997155, yupao@uwindsor.ca
-// Compile command: gcc -o findFile lab1a.c
+// Description: Finds a file in current directory and identifies it as either a file or a directory
 
 #include <sys/types.h>
 #include <dirent.h>
