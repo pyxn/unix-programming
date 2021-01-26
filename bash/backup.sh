@@ -1,8 +1,5 @@
 #!/bin/bash
-# Name: Pao Yu
-# ID: yupao@uwindsor.ca
-# Description: Assignment #01
-# Synopsis: Backup files from current or target directory into a tar file.
+# Description: Backup files from current or target directory into a tar file.
 # Test Usage Case 1: ./backup.sh txt bin c cpp py
 # Test Usage Case 2: ./backup.sh -t ./test/ txt bin c cpp py
 
