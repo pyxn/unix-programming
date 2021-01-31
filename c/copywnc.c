@@ -3,10 +3,6 @@
  * Copy With No Comments - copywnc.c
  * Creates a non-commented copy of a commented file.
  * ------------------------------------------------------------------
- * Name: Pao Yu
- * Student Number: 103997155
- * UWinID: yupao@uwindsor.ca
- * ------------------------------------------------------------------
 */
 
 #include <stdio.h>
